@@ -30,6 +30,21 @@ menjalankan onpressed. yang dapat melakukan sesuatu.
 #### Icon Button
 Dimana tombol ini hanya menampilkan icon dan jika ditekan akan menjalankan onpressed untuk menjalankan suatu fungsi.
 
+## Advance Form Input
+
+User input bisa digunakan untuk interaksi antara aplikasi dan usernya widget-widget ini dibuat aplikasi bertujuan untuk berbagai input dan feedback dari user.
+
+#### Date Picker
+Widget ini bisa kita gunakan pada UI agar user dapat memasukkan tanggal yang dibutuhkan, contoh tanggal kelahiran waktu pemesanan tiket waktu reservasi restoran jadwal meeting dll. kita akan membuat date picker ini menggunakan fungsi bawaan dari flutter yaitu showDatePicker fungsi showDatePicker ini memiliki tipe data future dan fungsi ini akan menampilkan dialog material design yang merupakan tampilan untuk aplikasi android.
+
+#### Color Picker
+kita bisa membuat widget colorPicker dimana user bisa memilih color yang ia butuhkan, dan penggunaan  color picker ini bisa 
+digunakan untuk berbagai macam kondisi, dan untuk membuat color picker membutuhkan package color_picker.
+
+#### File Picker
+Adalah kemampuan widget untuk mengakses storage di handphone kita disini kita bisa memilih file dari aplikasi kita
+dan kita bisa membuka file tersebut, untuk membuat file picker ini membutuhkan 2 package yaitu file_picker dan open_file
+
 
 #### License
 
